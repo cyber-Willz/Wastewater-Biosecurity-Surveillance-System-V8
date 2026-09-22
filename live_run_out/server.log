@@ -1,0 +1,10 @@
+[2m2026-09-21T23:38:37.890674Z[0m [32m INFO[0m [2mww_api::db[0m[2m:[0m applying migration [3mversion[0m[2m=[0m1
+[2m2026-09-21T23:38:37.914323Z[0m [32m INFO[0m [2mww_api::engine[0m[2m:[0m engine rebuilt from database [3msites[0m[2m=[0m0 [3mcatchments[0m[2m=[0m0 [3mreplayed[0m[2m=[0m0 [3mspread_threshold[0m[2m=[0m0.4
+[2m2026-09-21T23:38:37.914346Z[0m [32m INFO[0m [2mww_api[0m[2m:[0m n8n webhooks disabled (WW_N8N_BASE_URL not set)
+[2m2026-09-21T23:38:37.914407Z[0m [32m INFO[0m [2mww_api[0m[2m:[0m ww_api listening [3mbind[0m[2m=[0m127.0.0.1:8080
+[2m2026-09-21T23:38:38.441303Z[0m [32m INFO[0m [2mww_api::engine[0m[2m:[0m engine rebuilt from database [3msites[0m[2m=[0m141 [3mcatchments[0m[2m=[0m11 [3mreplayed[0m[2m=[0m0 [3mspread_threshold[0m[2m=[0m0.9784405006191923
+[2m2026-09-21T23:38:38.772377Z[0m [32m INFO[0m [2mtokio_postgres::connection[0m[2m:[0m NOTICE: schema "ww_live_20260921_233837" already exists, skipping
+[2m2026-09-21T23:38:38.777869Z[0m [32m INFO[0m [2mtokio_postgres::connection[0m[2m:[0m NOTICE: relation "schema_migrations" already exists, skipping
+[2m2026-09-21T23:38:38.942408Z[0m [32m INFO[0m [2mww_api::engine[0m[2m:[0m engine rebuilt from database [3msites[0m[2m=[0m141 [3mcatchments[0m[2m=[0m11 [3mreplayed[0m[2m=[0m5458 [3mspread_threshold[0m[2m=[0m0.9784405006191923
+[2m2026-09-21T23:38:38.942625Z[0m [32m INFO[0m [2mww_api[0m[2m:[0m n8n webhooks disabled (WW_N8N_BASE_URL not set)
+[2m2026-09-21T23:38:38.942749Z[0m [32m INFO[0m [2mww_api[0m[2m:[0m ww_api listening [3mbind[0m[2m=[0m127.0.0.1:8080
